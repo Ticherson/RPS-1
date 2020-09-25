@@ -1,2 +1,4 @@
 # RPS-1
-JEJEJEJEJ
+## trabajodenegocioshardware
+texto
+
